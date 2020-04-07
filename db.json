@@ -2,6 +2,7 @@
   "response": 
       {
         "messages": [
+          {"text": "Welcome to the Chatfuel Rockets!"},
           {
             "attachment": {
               "type": "image",
